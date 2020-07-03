@@ -1,3 +1,9 @@
+@media screen and (min-width: 1002px) {
+  /* .carousel__block {
+    flex-direction: row !important;
+  } */
+}
+
 @media screen and (min-width: 1101px) {
   /* .carousel__block {
     flex-direction: row !important;

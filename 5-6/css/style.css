@@ -52,7 +52,8 @@
   box-sizing: border-box;
   height: 71px;
   width: 280px;
-  margin-top: 50px;
+  margin-top: 189px;
+    margin-left: 200px;
 }
 .header__text--border-green {
   box-sizing: border-box;
@@ -114,6 +115,7 @@
   font-size: 27px;
   color: #707070;
 }
+
 /* .one__line {
   position: relative;
   top: 200px;
