@@ -60,15 +60,14 @@
   margin-left: 40px;
   width: 492px;
   margin-top: 50px;
-  background-color: #2bd375;
 }
 .header__text--collect {
   font-size: 25px;
 }
-.header__text--collect-green {
+/*.header__text--collect {
   font-size: 35px;
   padding: 65px 0 65px 90px;
-}
+}*/
 .header__img-2 {
   display: none;
 }
@@ -95,10 +94,10 @@
 .arrow__right {
   content: url(../img/back-light.svg);
 }
-.arrow__right--green {
+/*.arrow__right--green {
   content: url(../img/back-light-bg.svg);
   padding: 0 90px 0 0;
-}
+}*/
 .grey__rectangle {
   position: relative;
   top: -150px;
